@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Kim Guan;Chia;;;
+FN: Chia Kim Guan
+ORG:CEPL;
+TITLE:Technician
+EMAIL;type=INTERNET;type=WORK;type=pref:cepl@cnpl.com.sg
+TEL;type=WORK;type=VOICE:+65 9008 7143
+item1.ADR;type=WORK;type=pref:;;27 Mandai Estate\nInnovation Place Tower 2\, #04-01;;;729931;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:cnpl.com.sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
